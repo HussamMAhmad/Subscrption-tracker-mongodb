@@ -10,7 +10,6 @@
 * **Database:** [MongoDB](https://www.mongodb.com/) (Atlas)
 * **ODM:** [Mongoose](https://mongoosejs.com/)
 * **Workflow & Automation:** [Upstash Workflow](https://upstash.com/)
-* **Validation:** [Zod](https://zod.dev/)
 * **Security:** [Arcjet](https://arcjet.com/) (Bot protection, Rate limiting)
 * **Emailing:** [Nodemailer](https://nodemailer.com/)
 * **Date Handling:** [Day.js](https://day.js.org/)
